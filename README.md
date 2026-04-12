@@ -1,22 +1,22 @@
-# Available .CASH One-Word Domains (8,555)
+# Available .CASH One-Word Domains (8,559)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C557%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C555%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C559%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cash one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cash one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 8,557-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,559 domains** on the canonical page below.
 
-**Public extract:** 8,557 rows · **Live catalog:** 8,555 domains
+**Public extract:** 8,557 rows · **Live catalog:** 8,559 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/cash`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | custom.cash    | available | $17.99    | $46.99        | 110            | 39     | 6      | name.com                                                           |
 | neat.cash      | resell    | —         | —             | 64             | 99     | 4      | NameCheap, Inc.                                                    |
 | line.cash      | premium   | $520      | $520          | 74             | 65     | 4      | namecheap                                                          |
-| yard.cash      | available | $17.99    | $46.99        | 80             | 34     | 4      | name.com                                                           |
+| yard.cash      | available | $17.99    | $46.99        | 80             | 35     | 4      | name.com                                                           |
 | morgan.cash    | resell    | —         | —             | 64             | 82     | 6      | Xiamen ChinaSource Internet Service Co., Ltd                       |
 | abc.cash       | premium   | $260      | $260          | 102            | 39     | 3      | namecheap                                                          |
 | pack.cash      | available | $17.99    | $46.99        | 100            | 32     | 4      | name.com                                                           |
@@ -81,7 +81,7 @@ print(df.head())
 | drive.cash     | premium   | $123.75   | $123.75       | 100            | 37     | 5      | name.com                                                           |
 | aesthetic.cash | available | $17.99    | $46.99        | 88             | 31     | 9      | name.com                                                           |
 | code.cash      | resell    | —         | —             | 72             | 61     | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| dental.cash    | premium   | $123.75   | $123.75       | 90             | 37     | 6      | name.com                                                           |
+| student.cash   | premium   | $128.70   | $128.70       | 78             | 37     | 7      | namecheap                                                          |
 | moonlight.cash | available | $17.99    | —             | 80             | 31     | 9      | name.com                                                           |
 | context.cash   | resell    | —         | —             | 108            | 59     | 7      | Spaceship, Inc.                                                    |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,557-row public sample | 8,555 live domains                               |
+| 8,557-row public sample | 8,559 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
