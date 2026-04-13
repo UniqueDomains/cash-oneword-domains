@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C556%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C555%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C557%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -11,10 +11,10 @@
 
 Daily-updated public extract of available and resale .cash one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,556-row extract**, not the full live catalog.
+> **Important:** this repository is a **public 8,555-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **8,557 domains** on the canonical page below.
 
-**Public extract:** 8,556 rows · **Live catalog:** 8,557 domains
+**Public extract:** 8,555 rows · **Live catalog:** 8,557 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cash`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CASH one-word domain 
 
 ### Files
 
-- `cash.csv` — public CSV extract (8,556 rows)
-- `cash.json` — public JSON extract (8,556 rows)
+- `cash.csv` — public CSV extract (8,555 rows)
+- `cash.json` — public JSON extract (8,555 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -70,19 +70,19 @@ print(df.head())
 | yard.cash      | available | $17.99    | $46.99        | 80             | 35     | 4      | name.com                                                           |
 | morgan.cash    | resell    | —         | —             | 64             | 82     | 6      | Xiamen ChinaSource Internet Service Co., Ltd                       |
 | abc.cash       | premium   | $260      | $260          | 102            | 39     | 3      | namecheap                                                          |
-| pack.cash      | available | $17.99    | $46.99        | 100            | 32     | 4      | name.com                                                           |
+| adaptive.cash  | available | $17.99    | $46.99        | 76             | 32     | 8      | name.com                                                           |
 | identity.cash  | resell    | —         | —             | 84             | 65     | 8      | GoDaddy.com, LLC                                                   |
 | review.cash    | premium   | $128.70   | $128.70       | 94             | 39     | 6      | namecheap                                                          |
-| adaptive.cash  | available | $17.99    | $46.99        | 76             | 32     | 8      | name.com                                                           |
+| abstract.cash  | available | $17.99    | $46.99        | 108            | 31     | 8      | name.com                                                           |
 | domain.cash    | resell    | —         | —             | 80             | 64     | 6      | NameSilo, LLC                                                      |
 | total.cash     | premium   | $123.75   | $123.75       | 108            | 38     | 5      | name.com                                                           |
-| abstract.cash  | available | $17.99    | $46.99        | 108            | 31     | 8      | name.com                                                           |
+| aesthetic.cash | available | $17.99    | $46.99        | 88             | 31     | 9      | name.com                                                           |
 | power.cash     | resell    | —         | —             | 98             | 62     | 5      | Global Domains International, Inc. DBA DomainCostClub.com          |
 | drive.cash     | premium   | $123.75   | $123.75       | 100            | 37     | 5      | name.com                                                           |
-| aesthetic.cash | available | $17.99    | $46.99        | 88             | 31     | 9      | name.com                                                           |
+| moonlight.cash | available | $17.99    | —             | 80             | 31     | 9      | name.com                                                           |
 | code.cash      | resell    | —         | —             | 72             | 61     | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | student.cash   | premium   | $128.70   | $128.70       | 78             | 37     | 7      | namecheap                                                          |
-| moonlight.cash | available | $17.99    | —             | 80             | 31     | 9      | name.com                                                           |
+| pack.cash      | available | $17.99    | $46.99        | 100            | 30     | 4      | name.com                                                           |
 | context.cash   | resell    | —         | —             | 108            | 59     | 7      | Spaceship, Inc.                                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,556-row public sample | 8,557 live domains                               |
+| 8,555-row public sample | 8,557 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
