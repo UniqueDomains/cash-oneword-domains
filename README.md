@@ -1,22 +1,22 @@
-# Available .CASH One-Word Domains (8,555)
+# Available .CASH One-Word Domains (11,248)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C555%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C555%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C248%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cash one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cash one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,248 domains** on the canonical page below.
 
-**Public extract:** 8,555 rows · **Live catalog:** 8,555 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,248 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/cash`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CASH one-word domain 
 
 ### Files
 
-- `cash.csv` — public CSV extract (8,555 rows)
-- `cash.json` — public JSON extract (8,555 rows)
+- `cash.csv` — public CSV extract (1,000 rows)
+- `cash.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| custom.cash    | available | $17.99    | $46.99        | 110            | 39     | 6      | name.com                                                           |
-| neat.cash      | resell    | —         | —             | 64             | 99     | 4      | NameCheap, Inc.                                                    |
-| line.cash      | premium   | $520      | $520          | 74             | 65     | 4      | namecheap                                                          |
-| yard.cash      | available | $17.99    | $46.99        | 80             | 35     | 4      | name.com                                                           |
-| morgan.cash    | resell    | —         | —             | 64             | 82     | 6      | Xiamen ChinaSource Internet Service Co., Ltd                       |
-| abc.cash       | premium   | $260      | $260          | 102            | 39     | 3      | namecheap                                                          |
-| adaptive.cash  | available | $17.99    | $46.99        | 76             | 32     | 8      | name.com                                                           |
-| identity.cash  | resell    | —         | —             | 84             | 65     | 8      | GoDaddy.com, LLC                                                   |
-| review.cash    | premium   | $128.70   | $128.70       | 94             | 39     | 6      | namecheap                                                          |
-| abstract.cash  | available | $17.99    | $46.99        | 108            | 31     | 8      | name.com                                                           |
-| domain.cash    | resell    | —         | —             | 80             | 64     | 6      | NameSilo, LLC                                                      |
-| total.cash     | premium   | $123.75   | $123.75       | 108            | 38     | 5      | name.com                                                           |
-| aesthetic.cash | available | $17.99    | $46.99        | 88             | 31     | 9      | name.com                                                           |
-| power.cash     | resell    | —         | —             | 98             | 62     | 5      | Global Domains International, Inc. DBA DomainCostClub.com          |
-| drive.cash     | premium   | $123.75   | $123.75       | 100            | 38     | 5      | name.com                                                           |
-| moonlight.cash | available | $17.99    | —             | 80             | 31     | 9      | name.com                                                           |
-| code.cash      | resell    | —         | —             | 72             | 61     | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| student.cash   | premium   | $128.70   | $128.70       | 78             | 37     | 7      | namecheap                                                          |
-| pack.cash      | available | $17.99    | $46.99        | 100            | 30     | 4      | name.com                                                           |
-| context.cash   | resell    | —         | —             | 108            | 59     | 7      | Spaceship, Inc.                                                    |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| RGB.cash          | available | $50.98    | —             | 76             | 39     | 3      | namecheap                                    |
+| accounts.cash     | resell    | —         | —             | 54             | 19     | 8      | UM DOMAINS PTE. LTD                          |
+| travelers.cash    | premium   | $118.80   | $118.80       | 58             | 61     | 9      | namesilo                                     |
+| neuroscience.cash | available | $17.99    | —             | 80             | 37     | 12     | name.com                                     |
+| pestcontrol.cash  | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC                             |
+| Tools.cash        | premium   | $138.60   | $138.60       | 56             | 40     | 5      | namecheap                                    |
+| inspiration.cash  | available | $17.99    | —             | 88             | 30     | 11     | name.com                                     |
+| mortgages.cash    | resell    | —         | —             | 50             | 16     | 9      | Xiamen ChinaSource Internet Service Co., Ltd |
+| Jim.cash          | premium   | $138.60   | $138.60       | 78             | 28     | 3      | namecheap                                    |
+| quotes.cash       | available | $17.99    | —             | 58             | 29     | 6      | name.com                                     |
+| systems.cash      | premium   | $250      | —             | 46             | 27     | 7      | name.com                                     |
+| commonground.cash | available | $17.99    | —             | 74             | 28     | 13     | name.com                                     |
+| sites.cash        | premium   | $123.75   | —             | 53             | 26     | 5      | name.com                                     |
+| forms.cash        | available | $17.99    | —             | 54             | 28     | 5      | name.com                                     |
+| boats.cash        | premium   | $123.75   | —             | 52             | 24     | 5      | name.com                                     |
+| destination.cash  | available | $17.99    | —             | 90             | 25     | 11     | name.com                                     |
+| phones.cash       | premium   | $242      | $242          | 76             | 19     | 6      | namesilo                                     |
+| Keith.cash        | available | $50.98    | —             | 66             | 25     | 5      | namecheap                                    |
+| trucks.cash       | premium   | $1,000    | —             | 55             | 19     | 6      | name.com                                     |
+| Trex.cash         | available | $50.98    | —             | 80             | 24     | 5      | namecheap                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,555-row public sample | 8,555 live domains                               |
+| 1,000-row public sample | 11,248 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
