@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cash one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,427 domains · **Median ask:** $23.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/tld/cash`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Acup.cash     | available | $50.98    | —             | 80             | 5      | 5      | namecheap        |
-| Trex.cash     | available | $50.98    | —             | 80             | 24     | 5      | namecheap        |
-| jewels.cash   | available | $17.99    | —             | 80             | 15     | 6      | name.com         |
-| barup.cash    | available | $17.99    | —             | 82             | 2      | 6      | name.com         |
-| getup.cash    | available | $17.99    | —             | 82             | 14     | 6      | name.com         |
-| Apples.cash   | available | $50.98    | —             | 90             | 16     | 6      | namecheap        |
-| useit.cash    | available | $17.99    | —             | 94             | 7      | 6      | name.com         |
-| dogsit.cash   | available | $17.99    | —             | 96             | 2      | 6      | name.com         |
-| gearup.cash   | available | $17.99    | —             | 80             | 16     | 7      | name.com         |
-| QandA.cash    | available | $50.98    | —             | 80             | 10     | 7      | namecheap        |
-| toneup.cash   | available | $17.99    | —             | 80             | 5      | 7      | name.com         |
-| hangon.cash   | available | $17.99    | —             | 82             | 6      | 7      | name.com         |
-| makeit.cash   | available | $17.99    | —             | 82             | 22     | 7      | name.com         |
-| dogsick.cash  | available | $17.99    | —             | 90             | 1      | 7      | name.com         |
-| getlife.cash  | available | $17.99    | —             | 80             | 5      | 8      | name.com         |
-| messages.cash | available | $17.99    | —             | 80             | 16     | 8      | name.com         |
-| rumcake.cash  | available | $17.99    | —             | 81             | 3      | 8      | name.com         |
-| FabFour.cash  | available | $17.99    | —             | 82             | 3      | 8      | name.com         |
-| RGB.cash      | available | $50.98    | —             | 76             | 39     | 3      | namecheap        |
-| tribute.cash  | resell    | —         | —             | 74             | 19     | 7      | GoDaddy.com, LLC |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Acup.cash      | available | $50.98    | —             | 80             | 5      | 5      | namecheap        |
+| Trex.cash      | available | $50.98    | —             | 80             | 24     | 5      | namecheap        |
+| jewels.cash    | available | $17.99    | —             | 80             | 15     | 6      | name.com         |
+| barup.cash     | available | $17.99    | —             | 82             | 2      | 6      | name.com         |
+| getup.cash     | available | $17.99    | —             | 82             | 14     | 6      | name.com         |
+| Apples.cash    | available | $50.98    | —             | 90             | 16     | 6      | namecheap        |
+| useit.cash     | available | $17.99    | —             | 94             | 7      | 6      | name.com         |
+| dogsit.cash    | available | $17.99    | —             | 96             | 2      | 6      | name.com         |
+| gearup.cash    | available | $17.99    | —             | 80             | 16     | 7      | name.com         |
+| QandA.cash     | available | $50.98    | —             | 80             | 10     | 7      | namecheap        |
+| toneup.cash    | available | $17.99    | —             | 80             | 5      | 7      | name.com         |
+| hangon.cash    | available | $17.99    | —             | 82             | 6      | 7      | name.com         |
+| makeit.cash    | available | $17.99    | —             | 82             | 22     | 7      | name.com         |
+| dogsick.cash   | available | $17.99    | —             | 90             | 1      | 7      | name.com         |
+| getlife.cash   | available | $17.99    | —             | 80             | 5      | 8      | name.com         |
+| messages.cash  | available | $17.99    | —             | 80             | 16     | 8      | name.com         |
+| rumcake.cash   | available | $17.99    | —             | 81             | 3      | 8      | name.com         |
+| RGB.cash       | available | $50.98    | —             | 76             | 39     | 3      | namecheap        |
+| tribute.cash   | resell    | —         | —             | 74             | 19     | 7      | GoDaddy.com, LLC |
+| travelers.cash | premium   | $118.80   | $118.80       | 58             | 61     | 9      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
