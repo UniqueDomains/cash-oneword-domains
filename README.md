@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cash one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,428 domains · **Median ask:** $23.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/cash`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | dogsick.cash      | available | $17.99    | —             | 90             | 1      | 7      | name.com         |
 | getlife.cash      | available | $17.99    | —             | 80             | 5      | 8      | name.com         |
 | messages.cash     | available | $17.99    | —             | 80             | 16     | 8      | name.com         |
-| RGB.cash          | available | $50.98    | —             | 76             | 39     | 3      | namecheap        |
+| neuroscience.cash | available | $17.99    | —             | 80             | 37     | 12     | name.com         |
 | tribute.cash      | resell    | —         | —             | 74             | 19     | 7      | GoDaddy.com, LLC |
 | travelers.cash    | premium   | $118.80   | $118.80       | 58             | 61     | 9      | namesilo         |
-| neuroscience.cash | available | $17.99    | —             | 80             | 37     | 12     | name.com         |
+| inspiration.cash  | available | $17.99    | —             | 88             | 30     | 11     | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
