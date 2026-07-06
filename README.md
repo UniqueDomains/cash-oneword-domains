@@ -1,10 +1,10 @@
-# Available .CASH One-Word Domains (11,427)
+# Available .CASH One-Word Domains (11,428)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C427%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C428%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .cash one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,427 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,428 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,427 domains · **Median ask:** $23.72 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,428 domains · **Median ask:** $24.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cash`  
+**Last updated:** 2026-07-06
+**Canonical page:** `https://unique.domains/domains/tld/cash`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CASH one-word domain 
 
 ### Files
 
-- `cash.csv` — public CSV extract (1,000 rows)
-- `cash.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cash.csv`, public CSV extract (1,000 rows)
+- `cash.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Acup.cash         | available | $50.98    | —             | 80             | 5      | 5      | namecheap        |
-| Trex.cash         | available | $50.98    | —             | 80             | 24     | 5      | namecheap        |
-| jewels.cash       | available | $17.99    | —             | 80             | 15     | 6      | name.com         |
-| barup.cash        | available | $17.99    | —             | 82             | 2      | 6      | name.com         |
-| getup.cash        | available | $17.99    | —             | 82             | 15     | 6      | name.com         |
-| Apples.cash       | available | $50.98    | —             | 90             | 16     | 6      | namecheap        |
-| useit.cash        | available | $17.99    | —             | 94             | 7      | 6      | name.com         |
-| dogsit.cash       | available | $17.99    | —             | 96             | 2      | 6      | name.com         |
-| gearup.cash       | available | $17.99    | —             | 80             | 16     | 7      | name.com         |
-| QandA.cash        | available | $50.98    | —             | 80             | 10     | 7      | namecheap        |
-| toneup.cash       | available | $17.99    | —             | 80             | 5      | 7      | name.com         |
-| hangon.cash       | available | $17.99    | —             | 82             | 6      | 7      | name.com         |
-| makeit.cash       | available | $17.99    | —             | 82             | 21     | 7      | name.com         |
-| dogsick.cash      | available | $17.99    | —             | 90             | 1      | 7      | name.com         |
-| getlife.cash      | available | $17.99    | —             | 80             | 5      | 8      | name.com         |
-| messages.cash     | available | $17.99    | —             | 80             | 16     | 8      | name.com         |
-| neuroscience.cash | available | $17.99    | —             | 80             | 37     | 12     | name.com         |
-| tribute.cash      | resell    | —         | —             | 74             | 19     | 7      | GoDaddy.com, LLC |
-| travelers.cash    | premium   | $118.80   | $118.80       | 58             | 61     | 9      | namesilo         |
-| RGB.cash          | available | $50.98    | —             | 76             | 30     | 3      | namecheap        |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| icu.cash  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| fin.cash  | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                              |
+| act.cash  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| NWO.cash  | available | $17.99    | —             | medium         | low    | 3      | name.com                                     |
+| sea.cash  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                  |
+| bra.cash  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                     |
+| tks.cash  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| axis.cash | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| dog.cash  | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
+| aide.cash | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
+| back.cash | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 43                            |
+| eat.cash  | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
+| bake.cash | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
+| bolt.cash | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                  |
+| ego.cash  | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                     |
+| bern.cash | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
+| bull.cash | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
+| jar.cash  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| brag.cash | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
+| copy.cash | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,427 live domains                        |
+| 1,000-row public sample | 11,428 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .cash domains. That creates a narrow but useful naming set for buyers who want a direct financial cue in the extension and a single-word brand in the label. Examples in this set range from broad terms such as finals.cash and jewels.cash to more distinctive options like Acup.cash and Trex.cash. The median ask is 23.72, so price is generally accessible, but low ask alone is not enough. When comparing these domains, weigh word quality, memorability, category fit, and possible trademark exposure. Terms that are generic, easy to say, and commercially flexible usually deserve the closest look.
+Every domain in this list ends in .cash and uses a single, unbroken word — no hyphens, numbers, or extra tokens. The 11,428 names span a wide range of everyday phrases, from action-oriented terms like barup and getjiggy to descriptive names like primarycare and counselling. With a median ask near $24, this set stays broadly affordable, making it easy to compare options and shortlist names by clarity, spelling, and relevance to your use case.
 
-- All domains in this selection use the .cash extension
-- Each name is a single word with direct brand potential
-- Median ask is 23.72 across 11,421 domains
-- Check genericity, recall, and trademark risk first
+- 11,428 one-word .cash domain names available for review
+- Median ask near $24 across the full set
+- No hyphens or numbers — single continuous word structure
+- Themes range from action verbs to descriptive everyday terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-07-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
