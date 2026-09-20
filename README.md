@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cash one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,906 domains · **Median ask:** $12.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/cash`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| ain.cash  | available | $4.98     | $50.98        | low            | low    | 3      | namecheap                                    |
-| fin.cash  | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc.                              |
-| act.cash  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| icu.cash  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| sea.cash  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                  |
-| bra.cash  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                     |
-| NWO.cash  | available | $17.99    | —             | medium         | low    | 3      | name.com                                     |
-| axis.cash | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| dog.cash  | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
-| tks.cash  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| back.cash | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 43                            |
-| eat.cash  | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
-| aide.cash | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
-| bolt.cash | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                  |
-| ego.cash  | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                     |
-| alar.cash | available | $4.98     | $50.98        | low            | low    | 4      | namecheap                                    |
-| bull.cash | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
-| jar.cash  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| arum.cash | available | $4.98     | $50.98        | low            | low    | 4      | namecheap                                    |
-| copy.cash | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| period.cash | available | $17.99    | —             | high           | low    | 6      | name.com                                     |
+| ain.cash    | available | $4.98     | $50.98        | low            | low    | 3      | namecheap                                    |
+| fin.cash    | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc.                              |
+| act.cash    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| icu.cash    | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| sea.cash    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                  |
+| bra.cash    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                     |
+| nwo.cash    | available | $17.99    | —             | medium         | low    | 3      | name.com                                     |
+| axis.cash   | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| dog.cash    | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
+| tks.cash    | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| back.cash   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 43                            |
+| eat.cash    | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
+| aide.cash   | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
+| bolt.cash   | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                  |
+| ego.cash    | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                     |
+| alar.cash   | available | $4.98     | $50.98        | low            | low    | 4      | namecheap                                    |
+| bull.cash   | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
+| jar.cash    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| arum.cash   | available | $4.98     | $50.98        | low            | low    | 4      | namecheap                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASH One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
